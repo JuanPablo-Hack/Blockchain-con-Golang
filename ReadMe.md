@@ -10,3 +10,8 @@ Blockchain es una de las tecnologías más revolucionarias del siglo XXI, que to
 
 En esta serie de artículos construiremos una criptomoneda simplificada que se basa en una implementación simple de blockchain.
 
+## Como es que funciona
+
+## ![alt text](https://github.com/JuanPablo-Hack/Blockchain-con-Golang/blob/master/imagenes/Prueba.jpg "Funcion")
+
+
